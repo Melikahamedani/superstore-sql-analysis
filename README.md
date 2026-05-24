@@ -71,7 +71,7 @@ Contains transactional sales data:
 
 ---
 
-## 📈 Business Questions Solved
+## Business Questions Solved
 
 ### Customer Analysis
 - Top customers by sales
