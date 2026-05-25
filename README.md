@@ -114,7 +114,9 @@ Contains transaction-level information:
 ## Project Screenshots
 
 ### Database Tables
-![Database Tables](screenshots/database_tables.png)
+![Database Tables](screenshots/Customer_Table.png)
+![Database Tables](screenshots/Order_details_table.png)
+![Database Tables](screenshots/Products_table.png)
 
 ### Top Customers by Sales
 ![Top Customers](screenshots/top_customers.png)
