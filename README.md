@@ -111,6 +111,23 @@ Contains transaction-level information:
 - `advanced_analysis.sql` — contains CTEs, window functions, rankings, and advanced analysis
 - `screenshots` — query result screenshots
 
+## Project Screenshots
+
+### Database Tables
+![Database Tables](screenshots/database_tables.png)
+
+### Top Customers by Sales
+![Top Customers](screenshots/top_customers.png)
+
+### Monthly Sales Trend
+![Monthly Sales](screenshots/monthly_sales_trend.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+### Most Profitable Product per Category
+![Top Product](screenshots/most_profitable_product.png)
+
 ## Author
 
 Melika Hamedani
