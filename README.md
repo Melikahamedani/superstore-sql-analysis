@@ -126,7 +126,7 @@ Contains transaction-level information:
 ![Customer Segmentation](screenshots/customer_segmentation.png)
 
 ### Most Profitable Product per Category
-![Top Product](screenshots/top_product_per_category.png)
+![Top Product](screenshots/most_profitable_product.png)
 
 ## Author
 
