@@ -114,19 +114,19 @@ Contains transaction-level information:
 ## Project Screenshots
 
 ### Database Tables
-![Database Tables](screenshots/database_tables.png)
+![database_tables.png](screenshots/database_tables.png)
 
 ### Top Customers by Sales
-![Top Customers](screenshots/top_customers.png)
+![top_customers.png](screenshots/top_customers.png)
 
 ### Monthly Sales Trend
-![Monthly Sales](screenshots/monthly_sales_trend.png)
+![monthly_sales_trend](screenshots/monthly_sales_trend.png)
 
 ### Customer Segmentation
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![customer_segmentation.png](screenshots/customer_segmentation.png)
 
 ### Most Profitable Product per Category
-![Top Product Per Category](screenshots/most_profitable_product.png)
+![most_profitable_product.png](screenshots/most_profitable_product.png)
 
 ## Author
 
