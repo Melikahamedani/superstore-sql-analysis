@@ -162,7 +162,7 @@ This project also includes an interactive Power BI dashboard connected to Postgr
 ![Regional Analysis](screenshots/regional_sales_performance.png)
 
 ### Customer & Product Analysis
-![Customer Product Analysis](screenshots/customer_product_analysis.png)\
+![Customer Product Analysis](screenshots/customer_product_analysis.png)
 ![Customer Product Analysis](screenshots/top_products_by_profit.png)
 
 ### Sales Analysis
