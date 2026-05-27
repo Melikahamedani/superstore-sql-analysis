@@ -133,6 +133,40 @@ Contains transaction-level information:
 ### Most Profitable Product per Category
 ![Top Product](screenshots/most_profitable_product.png)
 
-## Author
+## Power BI Dashboard
 
+This project also includes an interactive Power BI dashboard connected to PostgreSQL.
+
+### Dashboard Features
+- Executive KPI summary
+- Monthly sales trends
+- Regional sales analysis
+- Profit margin analysis
+- Customer segmentation
+- Top customers and products
+
+### Power BI Skills Demonstrated
+- Data modeling
+- Relationships
+- DAX measures
+- KPI dashboard design
+- Interactive filtering
+- Time-series visualization
+
+## Power BI Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/main_dashboard.png)
+
+### Regional Analysis
+![Regional Analysis](screenshots/regional_sales_performance.png)
+
+### Customer & Product Analysis
+![Customer Product Analysis](screenshots/customer_product_analysis.png)\
+![Customer Product Analysis](screenshots/top_products_by_profit.png)
+
+### Sales Analysis
+![Sales Analysis](screenshots/regional_sales_performance.png)
+
+## Author
 Melika Hamedani
